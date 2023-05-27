@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    @apply max-w-[1240px] mx-auto px-3
+}
+
+.btn {
+    @apply bg-[#F7A582] px-5 py-3 rounded
+}
